@@ -1,0 +1,18 @@
+html, body {
+  margin: 0; }
+
+.container {
+  overflow: hidden;
+  background-color: #FF851B; }
+
+.block {
+  width: 900px;
+  height: 900px;
+  margin: 10px;
+  display: fixed;
+  background-color: #85144B;
+  transform: rotate(20deg);
+  overflow: hidden;
+  color: white; }
+
+/*# sourceMappingURL=main.css.map */
