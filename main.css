@@ -1,18 +1,9 @@
 html, body {
-  margin: 0; }
+  margin: 20px;
+  color: #FF851B;
+  font-family: monospace; }
 
-.container {
-  overflow: hidden;
-  background-color: #FF851B; }
-
-.block {
-  width: 900px;
-  height: 900px;
-  margin: 10px;
-  display: fixed;
-  background-color: #85144B;
-  transform: rotate(20deg);
-  overflow: hidden;
-  color: white; }
+h1 {
+  color: #85144B; }
 
 /*# sourceMappingURL=main.css.map */
