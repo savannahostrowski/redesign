@@ -3,6 +3,12 @@ html, body {
   color: #FF851B;
   font-family: monospace; }
 
+canvas {
+  width: 50%;
+  height: 50%;
+  display: block;
+  margin: 0 auto; }
+
 h1 {
   color: #85144B; }
 
