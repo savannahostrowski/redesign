@@ -1,15 +1,29 @@
 html, body {
 	margin: 20px;
-	color: #FF851B;
-	font-family: monospace;
+	font-family: helvetica;
 }
+
 canvas {
-	width: 50%;
-	height: 50%;
-	display: block;
+	display: inline-block;
 	margin: 0 auto;
 }
 h1 {
-	color: #85144B;
+	color: #ef95c1;
+}
+
+h2, h3, h4,
+h5, h6, p {
+	color:#8de1cc;
+	font-size: 1
+}
+
+a {
+	color: #aa8cc5;
+}
+
+.container {
+	width: 75%;
+	margin: 0 auto;
+
 }
 //colours: #FF851B, #85144B, #fffff with opacity set to more transparent
