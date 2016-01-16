@@ -8,7 +8,7 @@ body {
 }
 
 header.global {
-  background-color: #ef95c1;
+  background-color: #85144b;
 
   a {
     text-decoration: none;
@@ -49,7 +49,7 @@ header.global {
   }
 
   h1 {
-    color: #ef95c1;
+    color: #FF851B;
     font-weight: 300;
     font-size:2rem;
     margin-bottom: 15px;
@@ -86,13 +86,13 @@ header.global {
       padding: 0 15px;
 
       a:hover {
-        color: #766289;
+        color: #EB79B0;
       }
     }
   }
 
   a {
-    color: #aa8cc5;
+    color: #85144b;
   }
 
   .work {
@@ -102,7 +102,7 @@ header.global {
   }
 
 .work-title {
-  color: #aa8cc5;
+  color: #FF851B;
   padding-bottom: 15px;
 }
 
@@ -111,6 +111,7 @@ header.global {
       font-size: 1.2rem;
       text-decoration: none;
       font-weight: 700;
+      color: #FF851B;
     }
 
     .title:hover {
@@ -120,7 +121,8 @@ header.global {
       padding-bottom: 20px;
       font-weight: 500;
     }
-    .job-title {
+    .job-title,
+    .date {
       font-weight: 700;
     }
   }
@@ -132,7 +134,7 @@ header.global {
 
 h2, h3, h4,
 h5, h6, p {
-  color: #60b09c;
+  color: #84144b;
 }
 
 //Contact
@@ -159,7 +161,7 @@ h5, h6, p {
 
 a {
   color:#fff;
-  background: #aa8cc5;
+  background: #85144b;
   border-radius:4px;
   text-align:center;
   text-decoration:none;
@@ -178,7 +180,7 @@ a {
 }
 
 a:hover {
-  background: #c3aed6;
+  background: #EB79B0;
 }
 
 

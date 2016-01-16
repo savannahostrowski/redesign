@@ -7,7 +7,7 @@ body {
   padding: 0; }
 
 header.global {
-  background-color: #ef95c1; }
+  background-color: #85144b; }
   header.global a {
     text-decoration: none;
     font-weight: 300;
@@ -34,7 +34,7 @@ header.global {
     border-radius: 50%;
     margin-bottom: 15px; }
   .container h1 {
-    color: #ef95c1;
+    color: #FF851B;
     font-weight: 300;
     font-size: 2rem;
     margin-bottom: 15px; }
@@ -61,24 +61,26 @@ header.global {
       display: inline-block;
       padding: 0 15px; }
       .container .list li a:hover {
-        color: #766289; }
+        color: #EB79B0; }
   .container a {
-    color: #aa8cc5; }
+    color: #85144b; }
   .container .work .container {
     text-align: left; }
   .container .work-title {
-    color: #aa8cc5;
+    color: #FF851B;
     padding-bottom: 15px; }
   .container .worklist .title {
     font-size: 1.2rem;
     text-decoration: none;
-    font-weight: 700; }
+    font-weight: 700;
+    color: #FF851B; }
   .container .worklist .title:hover {
     text-decoration: underline; }
   .container .worklist * {
     padding-bottom: 20px;
     font-weight: 500; }
-  .container .worklist .job-title {
+  .container .worklist .job-title,
+  .container .worklist .date {
     font-weight: 700; }
 
 .subheader {
@@ -87,7 +89,7 @@ header.global {
 
 h2, h3, h4,
 h5, h6, p {
-  color: #60b09c; }
+  color: #84144b; }
 
 .contact .container {
   text-align: center; }
@@ -109,7 +111,7 @@ h5, h6, p {
       padding-top: 0; } }
   .social a {
     color: #fff;
-    background: #aa8cc5;
+    background: #85144b;
     border-radius: 4px;
     text-align: center;
     text-decoration: none;
@@ -126,7 +128,7 @@ h5, h6, p {
     transition: all .5s;
     -webkit-font-smoothing: antialiased; }
   .social a:hover {
-    background: #c3aed6; }
+    background: #EB79B0; }
   .social a:hover span {
     bottom: 50px;
     visibility: visible;
